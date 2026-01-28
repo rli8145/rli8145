@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=999999F&center=false&vCenter=true&width=600&lines=Ryan+Li" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=0&repeat=true&center=false&vCenter=true&width=600&lines=Ryan+Li" />
 
 📐 Honours Mathematics @ University of Waterloo  
 🚀 Co-op seeking Summer 2026  
@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/ryan-li-0bab58363">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" />
 </a>
-
-### `Tech Stack`
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" />
