@@ -24,20 +24,11 @@ Here are some ideas to get you started:
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=0&repeat=true&vCenter=true&width=600&lines=Ryan+Li)
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=coffeescript&logoColor=white)
-![C/C++](https://img.shields.io/badge/c%2Fc%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%230070AC.svg?style=flat&logo=typescript&logoColor=white)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=coffeescript&logoColor=white)
-![C/C++](https://img.shields.io/badge/c%2Fc%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%230070AC.svg?style=flat&logo=typescript&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
@@ -46,6 +37,10 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-li-0bab58363)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:rr2li@uwaterloo.ca)
+
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
+
 -->
 ## Hi! I'm Ryan Li
 
@@ -54,7 +49,10 @@ cs + math @ uwaterloo
 [website](https://ryan-li.ca/) • [linkedIn](https://www.linkedin.com/in/ryan-li-0bab58363/) • rr2li@uwaterloo.ca 
 
 ![Python](https://img.shields.io/badge/python-%234B8BBE.svg?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%235382A1.svg?style=flat&logo=coffeescript&logoColor=white)
 ![C/C++](https://img.shields.io/badge/c%2Fc%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23A05C3B.svg?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23A05C3B.svg?style=flat&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/java-%235382A1.svg?style=flat&logo=coffeescript&logoColor=white)
+
+
+
