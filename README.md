@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 -->
 ## Hi! I'm Ryan Li
 
-cs + math @ uwaterloo 
+cs + co @ uwaterloo 
 
 [website](https://ryan-li.ca/) • [linkedIn](https://www.linkedin.com/in/ryan-li-0bab58363/) • rr2li@uwaterloo.ca 
 
